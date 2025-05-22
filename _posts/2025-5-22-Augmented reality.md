@@ -2,7 +2,7 @@
 layout: post
 title: "AR"
 subtitle: "Augmented Reality"
-background: '/img/vr_cables_1_pablo_dornhege_zugeschnitten-scaled-1.webp'
+background: '/img/augmented-reality-1957411_1280.jpg'
 ---
 
 ## Agmented Reality
