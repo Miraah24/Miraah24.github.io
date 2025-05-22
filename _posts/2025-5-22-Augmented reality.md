@@ -5,10 +5,46 @@ subtitle: "Augmented Reality"
 background: '/img/augmented-reality-1957411_1280.jpg'
 ---
 
-## Agmented Reality
-shshh
+Lorem Ipsium
 
-## Use of AR in teaching science
+<div style="background-color: #f0f0f0; border-left: 4px solid #999; padding: 10px 15px; border-radius: 6px; line-height: 1.6;">
+  <h4>Meta-Analysis at a Glance</h4>
+  <br>
+  <strong>Focus of the Study:</strong>  
+  Lorem Ipsium
+  <br>
 
-sggsh
+  <strong>Target Group:</strong>  
+  Lorem Ipsium
+  <br>
 
+  <strong>Average Effect Size:</strong>  
+   Lorem Ipsium 
+  <br>
+
+  <strong>Further Finding:</strong>  
+  Lorem Ipsium
+
+</div>
+
+
+<br>
+
+#### Introduction
+Lorem Ipsium
+
+#### What Is This Study About?
+Lorem Ipsium
+
+#### Key Findings
+Lorem Ipsium
+
+#### How Does GAMEs Rate as Teaching Method?
+Lorem Ipsium
+
+#### Conclusion for Teaching Practice
+Lorem Ipsium
+
+
+#### Study Example
+Lorem Ipsium

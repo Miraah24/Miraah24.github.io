@@ -2,7 +2,7 @@
 layout: page
 title: Miraah's Paper
 description: Paper name
-background: '/img/bg-about.jpg'
+background: '/img/stem-t4l-0ilDywbT8Qg-unsplash.jpg'
 ---
 
 
@@ -10,4 +10,3 @@ background: '/img/bg-about.jpg'
 
 QWERTY
 
-![alt text]()
